@@ -11,7 +11,7 @@ Welcome to my Todo App, a full-stack CRUD (Create, Read, Update, Delete) applica
 
 ## Demo
 
-Check out the live demo of the application [https://todoapp-07e1.onrender.com/] (https://todoapp-07e1.onrender.com/).
+Check out the live demo of the application [https://todoapp-07e1.onrender.com/](https://todoapp-07e1.onrender.com/)
 
 ## Getting Started
 
